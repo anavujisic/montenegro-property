@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "montenegro-property": {
+      "type": "http",
+      "url": "https://wkroaoprtqaxaykbgtcg.supabase.co/functions/v1/montenegro-mcp"
+    }
+  }
+}
