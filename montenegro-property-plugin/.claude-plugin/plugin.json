@@ -1,0 +1,25 @@
+{
+  "name": "montenegro-property",
+  "version": "1.0.0",
+  "description": "Montenegro property from independent advisor Ana Pajkovic: current new-build projects (Tivat, Porto Montenegro, Luštica Bay, Bay of Kotor, Herceg Novi, Kolašin) with starting prices, payment plans and delivery, plus buying costs, transfer tax and residency rules for foreign buyers. Read-only.",
+  "author": {
+    "name": "Ana Pajkovic",
+    "email": "hello@anapajkovic.com",
+    "url": "https://anapajkovic.com"
+  },
+  "homepage": "https://anapajkovic.com",
+  "license": "MIT",
+  "keywords": [
+    "montenegro",
+    "real estate",
+    "property",
+    "tivat",
+    "porto montenegro",
+    "lustica bay",
+    "kotor",
+    "residency",
+    "transfer tax"
+  ],
+  "privacyPolicyUrl": "https://anapajkovic.com/plugin-privacy",
+  "icon": "icon.png"
+}
