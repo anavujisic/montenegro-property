@@ -1,0 +1,18 @@
+{
+  "name": "ana-pajkovic",
+  "owner": {
+    "name": "Ana Pajkovic",
+    "email": "hello@anapajkovic.com"
+  },
+  "metadata": {
+    "description": "Montenegro property plugins from independent advisor Ana Pajkovic (anapajkovic.com)."
+  },
+  "plugins": [
+    {
+      "name": "montenegro-property",
+      "source": "./",
+      "description": "Montenegro new-build projects, buying costs, transfer tax and residency rules from independent advisor Ana Pajkovic. Read-only.",
+      "version": "1.0.0"
+    }
+  ]
+}
